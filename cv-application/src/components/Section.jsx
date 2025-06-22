@@ -5,7 +5,7 @@ export const Section = ({ prop, inputObj, onChange }) => {
     <>
       <section>
         <main>
-          <h1>{prop}</h1>
+          <h3 style={{display:'inline-block', marginRight: '10px'}}>{prop}</h3>
           <Input
             inputType={inputObj.inputType}
             hint={inputObj.hint}
