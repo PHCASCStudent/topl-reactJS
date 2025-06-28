@@ -1,1 +1,1 @@
-npm create vite@latest project-name -- --template react
+npm create vite@latest project-name -- react
